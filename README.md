@@ -8,8 +8,12 @@ You can use your WhatsApp data for many data science tasks like sentiment analys
 
 # Before starting with the task of WhatsApp Chat analysis with Python you need to extract your WhatsApp data from your smartphone which is a very easy task. To extract your WhatsApp chats, just open any chat with a person or a group and follow the steps mentioned below:
 
-1 If you are having an iPhone then tap on the Contact Name or the Group Name. In case you are having an Android smartphone then tap on the 3 dots above.
-2 Then scroll to the bottom and top on Export Chat.
-3 Then select without media for simplicity if it asks you whether you want your chats with or without media.
-4 Then email this chat to yourself and download it to your system.
-5 So this is how you can easily get your WhatsApp chats with any person or a group for the task of WhatsApp chat analysis. In the section below, I will take you through WhatsApp chat analysis with Python.
+1. If you are having an iPhone then tap on the Contact Name or the Group Name. In case you are having an Android smartphone then tap on the 3 dots above.
+
+2. Then scroll to the bottom and top on Export Chat.
+
+3. Then select without media for simplicity if it asks you whether you want your chats with or without media.
+
+4. Then email this chat to yourself and download it to your system.
+
+5. So this is how you can easily get your WhatsApp chats with any person or a group for the task of WhatsApp chat analysis. In the section below, I will take you through WhatsApp chat analysis with Python.
