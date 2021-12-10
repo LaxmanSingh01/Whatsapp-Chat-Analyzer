@@ -10,6 +10,8 @@ import warnings
 warnings.filterwarnings('ignore')
 import io
 from urlextract import URLExtract
+import nltk
+nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 sentiments=SentimentIntensityAnalyzer()
 
