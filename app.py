@@ -1,6 +1,8 @@
 import streamlit as st
 import functions
 import matplotlib.pyplot as plt
+import nltk
+nltk.download('vader_lexicon')
 
 st.sidebar.title('Whatsapp Chat Analyzer')
 
